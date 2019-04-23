@@ -1,0 +1,4 @@
+﻿  源.c
+d:\学习\大三下\多媒体实验\media\media\源.c(184): warning C4101: “p”: 未引用的局部变量
+d:\学习\大三下\多媒体实验\media\media\源.c(186): warning C4101: “test”: 未引用的局部变量
+  media.vcxproj -> D:\学习\大三下\多媒体实验\media\Debug\media.exe
